@@ -6,7 +6,7 @@
         "icon": "https://raw.githubusercontent.com/junyuyuan/MoviePilot-Plugins/main/icons/jackett.png",
         "color": "#000000",
         "author": "junyuyuan,Ray",
-        "level": 1,
+        "level": 2,
         "v2": true,
         "history": {
             "v0.0.18": "还原代码到0.0.7版本，提升用户等级，插件开发中",
