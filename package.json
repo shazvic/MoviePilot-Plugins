@@ -3,7 +3,7 @@
         "name": "Jackett 索引器",
         "description": "添加 Jackett 索引器，插件开发中",
         "version": "0.0.18",
-        "icon": "https://raw.githubusercontent.com/junyuyuan/MoviePilot-Plugins/main/icons/jackett.png",
+        "icon": "https://github.com/shazvic/MoviePilot-Plugins/blob/main/icons/jackett.png",
         "color": "#000000",
         "author": "junyuyuan,Ray",
         "level": 2,
